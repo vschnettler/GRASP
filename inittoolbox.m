@@ -9,6 +9,10 @@ addpath([base filesep 'visualization' filesep 'simulation_viz' filesep 'tests'])
 addpath([base filesep 'visualization' filesep 'simulation_viz' filesep 'simulation_viz']);
 addpath([base filesep 'visualization' filesep 'simulation_viz' filesep 'tests' filesep 'test_files']);
 addpath([base filesep 'tutorials']);
+addpath([base filesep 'tutorials' filesep 'temp']);
+addpath([base filesep 'reactions']);
+addpath([base filesep 'reactions' filesep 'adenine_cycle1_1']);
+addpath([base filesep 'reactions' filesep 'adenine_cycle2_1']);
 addpath([base filesep 'temp']);
 addpath([base filesep 'patterns']);
 addpath([base filesep 'matlab_code']);
