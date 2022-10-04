@@ -4,6 +4,7 @@ base=pwd;
 
 addpath(base);
 addpath([base filesep 'visualization']);
+addpath([base filesep 'modelo trans-zeatina']);
 addpath([base filesep 'visualization' filesep 'simulation_viz']);
 addpath([base filesep 'visualization' filesep 'simulation_viz' filesep 'tests']);
 addpath([base filesep 'visualization' filesep 'simulation_viz' filesep 'simulation_viz']);
